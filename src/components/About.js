@@ -25,7 +25,7 @@ export default function About() {
             <span className="bg-[#232526] text-white px-3 py-1 rounded-full text-xs sm:text-sm font-bold shadow">Quick Learner</span>
           </div>
         </div>
-      </div>
+    </div>
     </section>
   );
 }
