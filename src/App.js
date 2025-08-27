@@ -6,6 +6,7 @@ import Project from './components/Project';
 import Resume from './components/Resume';
 import Contact from './components/Contact';
 import Skill from './components/Skill';
+import Footer from './components/Footer';
 function App() {
   return (
     <div>
@@ -23,6 +24,9 @@ function App() {
       </div>
        <div className="my-1">
         <Contact />
+      </div>
+       <div className="my-1">
+        <Footer />
       </div>
     </div>
   
