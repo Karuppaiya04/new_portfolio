@@ -14,6 +14,7 @@ export default function Header() {
           <li><a href="#about" className="hover:text-[#09f4fc] transition-colors">About</a></li>
           <li><a href="#projects" className="hover:text-[#09f4fc] transition-colors">Projects</a></li>
           <li><a href="#resume" className="hover:text-[#09f4fc] transition-colors">Resume</a></li>
+          <li><a href="#skills" className="hover:text-[#09f4fc] transition-colors">Skills</a></li>
           <li>
             <a
               href="#contact"

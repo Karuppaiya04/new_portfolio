@@ -27,7 +27,7 @@ export default function Skill() {
 
   return (
     <section
-      id="skill"
+      id="skills"
       className="relative flex flex-col items-center justify-center px-6 md:px-12 py-16 
                  bg-[#505050] overflow-hidden"
     >
